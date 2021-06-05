@@ -62,13 +62,13 @@ body{
 }
 .work-section{
     background-color: rgba(211, 216, 218, 0.562);
-    height: 450px;
+    height: 500px;
 }
 .inquiry{
    background-image: linear-gradient(#5D69E9, #4225B6
    );
     width: 280px;
-   margin-left: 500px;
+   margin-left: 550px;
     margin-top: 80px;
     padding: 20px;
     border-radius: 10px;
