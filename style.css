@@ -6,10 +6,12 @@ body{
 .hello{
     font-size: 50px;
    
+   
 }
 .name{
     color: rgba(255, 94, 0, 0.966);
     font-size: 30px;
+   
   
 }
 .half-width{
@@ -36,4 +38,56 @@ body{
 .about{
     font-size: 30px;
     text-align: center;
+    margin-top: 50px;
+    
+}
+.clearDiv{
+    clear: both;
+}
+.mywork{
+    width: 30%;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 10px 7px 30px grey;
+    border-radius: 30px;
+}
+.workpic{
+    width: 70%;
+}
+.latestWork{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+}
+.work-section{
+    background-color: rgba(211, 216, 218, 0.562);
+    height: 450px;
+}
+.inquiry{
+   background-image: linear-gradient(#5D69E9, #4225B6
+   );
+    width: 280px;
+   margin-left: 500px;
+    margin-top: 80px;
+    padding: 20px;
+    border-radius: 10px;
+    color:white;
+    display: inline-block;
+}
+.chat{
+    border:1px solid orange;
+    background-color: rgba(255, 94, 0, 0.966);
+    border-radius: 5px;
+    padding: 5px;
+    color:white;
+    margin-left: -80px;
+}
+footer{
+    text-align: center;
+}
+.icon img{
+    width: 2%;
+    margin: 5px;
+   
 }
